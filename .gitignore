@@ -22,3 +22,4 @@ klipper_logs/
 mainsail/
 mjpg-streamer/
 moonraker/
+.gitconfig
